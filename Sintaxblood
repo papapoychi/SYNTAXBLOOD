@@ -1,0 +1,10 @@
+{
+  "applicationId": "poy.bloodline.vpn",
+  "minSdk": 23,
+  "targetSdk": 34,
+  "versionCode": 10,
+  "versionName": "1.1.0",
+  "abiFilters": ["armeabi-v7a", "arm64-v8a"],
+  "downloadUrl": "(link unavailable)",
+  "updateMessage": "Mayroong bagong update!"
+}
